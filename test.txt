@@ -1,1 +1,0 @@
-This is jemsy's first sample git txt file.
